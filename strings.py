@@ -1,0 +1,1 @@
+print("Where", "are", "the", "spaces", sep=" ")
