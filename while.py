@@ -1,7 +1,7 @@
-# num = 5
-# while (num > 0):
-#     print("Sri lanka")
-#     num = num-1
+num = 5
+ while (num > 0):
+     print("Sri lanka")
+     num = num-1
 
 
 # 2 While loops
