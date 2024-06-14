@@ -6,5 +6,8 @@ class Person:
     def myFunc(abc):
         print("I'm "+ abc.name)
 
-p1 = Person("Zeeanth" , 21)
+p1 = Person("Zeeanth", 21)
+p1.age = 22
+p1.myFunc()
+del p1
 p1.myFunc()
